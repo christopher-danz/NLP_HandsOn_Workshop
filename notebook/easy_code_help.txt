@@ -1,0 +1,11 @@
+REPEATER_fast = r"^(.+?).{0,2}\1+?$"
+REPEATER_exact = r"^(.+?)(.{0,2}\1)+?$"
+
+
+def get_model(n_inputs, n_outputs):
+    model = Sequential()
+    model.add(Dense(1000, input_dim=None, activation=''))
+    model.add(Dense(1000, activation=''))
+    model.add(Dense(units=None, activation=''))
+    model.compile(loss='', optimizer='')
+    return model

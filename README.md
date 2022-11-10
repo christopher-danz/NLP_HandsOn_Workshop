@@ -1,3 +1,5 @@
+# This repository contains notebooks of the NLP workshop held by my employer
+
 # Setting up development environment
 ## Software needed
 ### 1. Install Python with Miniconda

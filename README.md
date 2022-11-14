@@ -1,4 +1,4 @@
-# This repository contains notebooks of the NLP workshop held by my employer
+# This repository contains notebooks of a workshop on Natural Language Processing from Positive Thinking Company and Techlabs Munich.
 
 # Setting up development environment
 ## Software needed

@@ -76,5 +76,3 @@ to do so, navigate to your destination folder and type:
 ```
 wget "https://drive.google.com/drive/folders/1F_GRZfyeHKfxmcyrb1mc0uYp3HbwObjw"
 ```
-
-# TO DO: Write manual to use notebooks
